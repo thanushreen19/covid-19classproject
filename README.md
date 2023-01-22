@@ -1,1 +1,1 @@
-# covid-19classproject
+# covid
